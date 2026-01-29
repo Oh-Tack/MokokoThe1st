@@ -29,6 +29,14 @@
 		{
 			"Name": "PixelStreaming2",
 			"Enabled": true
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "UAFStateTree",
+			"Enabled": true
 		}
 	]
 }
